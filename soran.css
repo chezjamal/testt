@@ -1,0 +1,39 @@
+.con1{
+    background-image: url(alo.jpg);
+    background-size: cover;
+    
+   }
+   .con1 h2{
+    padding: 300px 300px;
+    font-size: 56px;
+   }
+  
+  
+  
+   @media screen and (max-width:340px) {
+    .con1 h2{
+      font-size: 3px;
+      padding: 100px 0px;
+    }
+
+    .con{
+      padding: 2px;
+    }
+    
+   }
+  
+   @media screen and (max-width:430px) {
+    .con1 h2{
+      font-size: 30px;
+      padding: 100px 40px;
+    }
+    
+   }
+
+   @media screen and (max-width:500px) {
+    .con1 h2{
+      font-size: 30px;
+      padding: 100px 40px;
+    }
+    
+   }
